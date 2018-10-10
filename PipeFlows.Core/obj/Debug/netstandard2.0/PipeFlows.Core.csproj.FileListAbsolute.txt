@@ -1,0 +1,9 @@
+E:\code\GitHub\PipeFlows\PipeFlows.Core\bin\Debug\netstandard2.0\PipeFlows.Core.deps.json
+E:\code\GitHub\PipeFlows\PipeFlows.Core\bin\Debug\netstandard2.0\PipeFlows.Core.dll
+E:\code\GitHub\PipeFlows\PipeFlows.Core\bin\Debug\netstandard2.0\PipeFlows.Core.pdb
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.csprojAssemblyReference.cache
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.csproj.CoreCompileInputs.cache
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.AssemblyInfoInputs.cache
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.AssemblyInfo.cs
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.dll
+E:\code\GitHub\PipeFlows\PipeFlows.Core\obj\Debug\netstandard2.0\PipeFlows.Core.pdb
